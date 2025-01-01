@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class LittleAlawnsPuzzle {
+public class LittleLawnsPuzzle {
     private static final int MOD = 1_000_000_007;
 
     public static void main(String[] args) throws IOException {
